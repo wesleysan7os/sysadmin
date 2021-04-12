@@ -1,0 +1,11 @@
+script 3:
+   objetivo:
+   	imprimir o nome de todos os arquivos do diretório num intervalo de 1 segundo entre as impressões
+
+   saída:
+	arquivo
+	script1
+	script1.sh
+	script2
+	script2.sh
+	script3.sh

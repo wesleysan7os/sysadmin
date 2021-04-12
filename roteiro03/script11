@@ -1,0 +1,3 @@
+script 11
+
+Objetivo e saída análogas ao script 10. A única diferença é que no script 11 foi feito uso explícito de uma variável para armazenar o valor da hora atual. Enquanto que no script 10 utilizou-se a saída direta do comando date +%H para fazer a comparação do if.

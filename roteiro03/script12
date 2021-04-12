@@ -1,0 +1,5 @@
+script 12
+   Objetivo:
+	executar o comando clear para limpar a tela caso o usuario digite s ou S.
+   Saída:
+

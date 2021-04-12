@@ -1,0 +1,5 @@
+script 5:
+   objetivo:
+   	imprimir os números de 1 a 9 na mesma linha
+   saída:
+	123456789

@@ -1,0 +1,7 @@
+script2:
+   objetivo:
+   	imprimir uma palavra e esperar por 1 segundo; esse processo se repete para todas as palavras do arquivo
+   saída:
+	pedra
+	papel
+	tesoura

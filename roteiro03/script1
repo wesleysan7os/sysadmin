@@ -1,0 +1,8 @@
+script 1:
+   objetivo:
+	imprimir uma palavra e esperar por 1 segundo; esse processo se repete para todas as palavras da variável nome.
+   saída:
+	joao
+	francisco
+	decio
+

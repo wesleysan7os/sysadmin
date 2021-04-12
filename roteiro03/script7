@@ -1,0 +1,10 @@
+script7
+   Objetivo:
+   	Imprimir cada linha do arquivo e sua respectiva numeração.
+   Saída:
+	 ------------- Inicio do arquivo. -------------
+	Linha 1: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum dui elit,
+	Linha 2: vehicula ut est eget, lobortis rhoncus magna. Phasellus pulvinar justo id
+	Linha 3: risus congue, eu lacinia turpis imperdiet.
+	 ------------- Final do arquivo. -------------
+

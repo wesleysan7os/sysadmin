@@ -1,0 +1,7 @@
+script 9
+   Objetivo:
+   	receber um nome da entrada e, caso ele comece com Jose ou Joao, desejar boa noite. Caso a entrada seja qualquer outro valor, imprimir a mensagem "Nao te conheço".
+   	interessante perceber que o case aceita uso de expressões regulares.
+   Saída:
+	Informe um nome
+	Boa noite Jose.

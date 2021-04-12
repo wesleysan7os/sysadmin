@@ -1,0 +1,3 @@
+script 13
+   Objetivo: verificar se existe um diretório chamado "casa" dentro do diretório corrente. Caso não exista, cria o diretório casa e mais três arquivos dentro dele (casa1, casa2, casa3). Dentro do laço for, esses arquivos tem as letras de seus nomes alteradas de minúsculas para maiúsculas.
+   saída:

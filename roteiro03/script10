@@ -1,0 +1,5 @@
+script 10
+   Objetivo:
+   	verificar a hora atual e a partir disso determinar se a mensagem impressa no terminal será Bom dia (caso a hora seja menor que 12), Boa tarde (se a hora atual for menor que 18 e maior que 12) ou Boa noite (caso a hora atual se encontre entre 18 e 24).
+   Saída:
+	Boa tarde

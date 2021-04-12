@@ -1,0 +1,14 @@
+script 6
+   objetivo:
+   	enquanto o valor de $inicio for menor que o de $fim, realizar o comando echo no corpo do while e incrementar $inicio em 1 unidade, até que as variáveis sejam iguais e o comando echo fora do laço seja executado
+   saída:
+	Valor inicial é menor que o final: 1 10
+	Valor inicial é menor que o final: 2 10
+	Valor inicial é menor que o final: 3 10
+	Valor inicial é menor que o final: 4 10
+	Valor inicial é menor que o final: 5 10
+	Valor inicial é menor que o final: 6 10
+	Valor inicial é menor que o final: 7 10
+	Valor inicial é menor que o final: 8 10
+	Valor inicial é menor que o final: 9 10
+	Valor inicial é igual ao valor final: 10 10

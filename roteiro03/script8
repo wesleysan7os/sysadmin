@@ -1,0 +1,6 @@
+script 8
+   Objetivo:
+   	receber como parâmetro o nome de um arquivo ou diretório e verificar se os mesmos estão presentes no diretório atual. Caso o arquivo (ou diretório) esteja presente, avisa que foi encontrado, caso contrário, informa que o arquivo (ou diretório) não foi encontrado. 
+   Saída:
+	Arquivo encontrado
+	Diretorio nao existe ou nao encontrado
